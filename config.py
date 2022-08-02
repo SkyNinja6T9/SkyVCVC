@@ -30,4 +30,9 @@ ALIVE_IMG = getenv("ALIVE_IMG", "https://telegra.ph/file/b36e913bd7e38b0596bbc.j
 START_PIC = getenv("START_PIC", "https://telegra.ph/file/f8871e5c3d0d1841a6b1f.jpg")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "600"))
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/SkyNinja6T9/SkyVCVC")
-
+IMG_1 = getenv("IMG_1", "https://telegra.ph/file/c540aac0249486854787b.png")
+IMG_2 = getenv("IMG_2", "https://telegra.ph/file/6f1cfec700087f6fcb391.png")
+IMG_3 = getenv("IMG_3", "https://telegra.ph/file/c3547532105a0cb67229d.png")
+IMG_4 = getenv("IMG_4", "https://telegra.ph/file/be5f551acb116292d15ec.png")
+IMG_5 = getenv("IMG_5", "https://telegra.ph/file/c3401a572375b569138c3.png")
+IMG_6 = getenv("IMG_6", "https://telegra.ph/file/c3401a572375b569138c3.png")
