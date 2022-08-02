@@ -28,6 +28,6 @@ SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5192663743").split()))
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ ! .").split())
 ALIVE_IMG = getenv("ALIVE_IMG", "https://telegra.ph/file/b36e913bd7e38b0596bbc.jpg")
 START_PIC = getenv("START_PIC", "https://telegra.ph/file/f8871e5c3d0d1841a6b1f.jpg")
-DURATION_LIMIT = int(getenv("DURATION_LIMIT", "60"))
+DURATION_LIMIT = int(getenv("DURATION_LIMIT", "600"))
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/SkyNinja6T9/SkyVCVC")
 
